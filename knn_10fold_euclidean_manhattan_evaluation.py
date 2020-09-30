@@ -3,6 +3,13 @@
 Created on Fri Sep 18 13:00:10 2020
 
 @author: DELL
+
+References:
+https://ljvmiranda921.github.io/notebook/2017/02/09/k-nearest-neighbors/
+https://machinelearningmastery.com/k-fold-cross-validation/
+https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+https://machinelearningmastery.com/implement-resampling-methods-scratch-python/
+https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/
 """
 
 from math import sqrt
